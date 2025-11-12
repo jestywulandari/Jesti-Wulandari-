@@ -1,64 +1,27 @@
-# Portofolio Jesty Wulandari
+# Portofolio Jesti Wulandari
 
 ---
 
 ## Tentang Saya
 
-Saya adalah seorang pengembang perangkat lunak dengan minat di bidang web development, mobile app, dan machine learning. Saya memiliki pengalaman dalam membangun aplikasi modern menggunakan berbagai teknologi.
+Saya Jesti Wulandari, mahasiswa semester 1 Di Universitas Muhammadiyah Bengkulu. JurusanSistem Informasi. 
+Saya antusias belajar teknologidan sistem informasi untuk mendukung karir di bidang IT.
 
 ---
 
-## Pendidikan
+## Pendidikan Terakhir
 
-- **S1 Teknik Informatika**  
-  Universitas Contoh  
-  2018 - 2022
+- **SMA**  
+  SMA NEGERI 5 BENGKULU TENGAH  
+  2022 - 2025
 
 ---
 
 ## Keahlian
 
-- Pemrograman: JavaScript, Python, Java, Kotlin
-- Web Development: React, Vue, Node.js, Express
-- Mobile App: Flutter, React Native
-- Database: MySQL, MongoDB, PostgreSQL
-- Lainnya: Git, Docker, REST API, Machine Learning (Scikit-Learn, TensorFlow)
+- memasak
+- volly
 
----
-
-## Pengalaman Kerja
-
-### PT Teknologi ABC (2022 - Sekarang)  
-**Software Developer**
-- Membangun aplikasi backend menggunakan Node.js dan Express.
-- Mengembangkan aplikasi web dengan React.
-- Integrasi API dan deployment dengan Docker.
-
-### Freelancer (2020 - 2022)  
-- Membuat website toko online untuk UMKM.
-- Mengembangkan aplikasi mobile sederhana dengan Flutter.
-
----
-
-## Proyek
-
-- **E-Commerce Website**  
-  Mengembangkan website toko online dengan React & Node.js, terintegrasi dengan payment gateway.
-
-- **Aplikasi Mobile Absensi**  
-  Membuat aplikasi absensi pegawai berbasis Flutter dengan QR code.
-
-- **Machine Learning Project**  
-  Memprediksi churn customer menggunakan Python dan Scikit-Learn.
-
----
-
-## Sertifikat
-
-- Dicoding: Belajar Membuat Aplikasi Web dengan React
-- Google: Mobile Apps with Flutter
-
----
 
 ## Kontak
 
